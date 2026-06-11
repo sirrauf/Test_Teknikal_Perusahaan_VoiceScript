@@ -2,7 +2,7 @@
 
 # Screenshoot Running Program
 
-![SS_Run]()
+![SS_Run](https://github.com/sirrauf/Test_Teknikal_Perusahaan_VoiceScript/blob/main/SS_Hasil_run.png?raw=true)
 
 # Screenshoot result final_report.json
 
