@@ -6,7 +6,7 @@
 
 # Screenshoot result final_report.json
 
-![SS_Result_final_report]()
+![SS_Result_final_report](https://github.com/sirrauf/Test_Teknikal_Perusahaan_VoiceScript/blob/main/SS_result_final_report.png?raw=true)
 
 ## Table of Contents
 1. Executive Summary
